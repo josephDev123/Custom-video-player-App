@@ -1,4 +1,4 @@
-#video player
-
-
-video player is a custom video player built with HTML, CSS, and Vanilla JavaScript. It has almost the html video tag/Element features.
+## video player
+```
+video player is a custom video player built with HTML, CSS, and Vanilla JavaScript. It has almost the html video tag/Element features like pause, play, and fast forward.
+```
